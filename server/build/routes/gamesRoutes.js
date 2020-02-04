@@ -12,9 +12,9 @@ class GamesRoutes {
     }
     // metodo con ruta por defecto
     config() {
-        //listar
+        //listar todos
         this.router.get('/', gamesController_1.default.list);
-        //listar
+        //listar uno
         this.router.get('/:id', gamesController_1.default.getOne);
         //crear
         this.router.post('/', gamesController_1.default.create);
