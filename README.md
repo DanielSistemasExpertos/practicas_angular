@@ -1,4 +1,4 @@
-#Aplicación web usando Angular, Nodejs y la base de datos MySQL. En esta aplicación crearemos nuestra REST API, utilizando Nodejs junto con Typescript y luego la utilizaremos junto a nuestra aplicación frontend usando angular y otros modulos de Javascript.
+#¿Qué es redux?, ACTIONS - REDUCERS - STATE - STORE, Inicio de proyecto - Aplicación pura de Angular, Integrar el componente nieto en nuestra aplicación, Implementar NGRX en nuestro proyecto, Action Creator - Creador de acciones, Store DevTools,  Escuchar cambios específicos de un elemento del State, Store en el componente hijo, Creando acción de multiplicar, Acción Reset del nieto, Optimizaciones a nuestra aplicación, ¿Qué son los efectos?
 
 ```
 #Se debe tener instalado node.js
@@ -24,8 +24,5 @@ cd nombre_proyecto
 ng serve
 
 
-#usando postman
-#metodo get
-http://localhost:3000/api/games
 
 ```
