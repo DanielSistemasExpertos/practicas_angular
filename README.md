@@ -1,5 +1,6 @@
 #¿Qué es redux?, ACTIONS - REDUCERS - STATE - STORE, Inicio de proyecto - Aplicación pura de Angular, Integrar el componente nieto en nuestra aplicación, Implementar NGRX en nuestro proyecto, Action Creator - Creador de acciones, Store DevTools,  Escuchar cambios específicos de un elemento del State, Store en el componente hijo, Creando acción de multiplicar, Acción Reset del nieto, Optimizaciones a nuestra aplicación, ¿Qué son los efectos?
 
+
 ```
 #Se debe tener instalado node.js
 https://nodejs.org/es/
